@@ -1,0 +1,12 @@
+C:\Proyectos\Yukiix\Techera\APITechera.BE\bin\Release\net6.0\APITechera.BE.deps.json
+C:\Proyectos\Yukiix\Techera\APITechera.BE\bin\Release\net6.0\APITechera.BE.dll
+C:\Proyectos\Yukiix\Techera\APITechera.BE\bin\Release\net6.0\APITechera.BE.pdb
+C:\Proyectos\Yukiix\Techera\APITechera.BE\obj\Release\net6.0\APITechera.BE.csproj.AssemblyReference.cache
+C:\Proyectos\Yukiix\Techera\APITechera.BE\obj\Release\net6.0\APITechera.BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Yukiix\Techera\APITechera.BE\obj\Release\net6.0\APITechera.BE.AssemblyInfoInputs.cache
+C:\Proyectos\Yukiix\Techera\APITechera.BE\obj\Release\net6.0\APITechera.BE.AssemblyInfo.cs
+C:\Proyectos\Yukiix\Techera\APITechera.BE\obj\Release\net6.0\APITechera.BE.csproj.CoreCompileInputs.cache
+C:\Proyectos\Yukiix\Techera\APITechera.BE\obj\Release\net6.0\APITechera.BE.dll
+C:\Proyectos\Yukiix\Techera\APITechera.BE\obj\Release\net6.0\refint\APITechera.BE.dll
+C:\Proyectos\Yukiix\Techera\APITechera.BE\obj\Release\net6.0\APITechera.BE.pdb
+C:\Proyectos\Yukiix\Techera\APITechera.BE\obj\Release\net6.0\ref\APITechera.BE.dll

@@ -1,0 +1,17 @@
+C:\Proyectos\Yukiix\Techera\APITechera.BL\bin\Debug\net6.0\APITechera.BL.deps.json
+C:\Proyectos\Yukiix\Techera\APITechera.BL\bin\Debug\net6.0\APITechera.BL.dll
+C:\Proyectos\Yukiix\Techera\APITechera.BL\bin\Debug\net6.0\APITechera.BL.pdb
+C:\Proyectos\Yukiix\Techera\APITechera.BL\bin\Debug\net6.0\APITechera.BE.dll
+C:\Proyectos\Yukiix\Techera\APITechera.BL\bin\Debug\net6.0\APITechera.DA.dll
+C:\Proyectos\Yukiix\Techera\APITechera.BL\bin\Debug\net6.0\APITechera.BE.pdb
+C:\Proyectos\Yukiix\Techera\APITechera.BL\bin\Debug\net6.0\APITechera.DA.pdb
+C:\Proyectos\Yukiix\Techera\APITechera.BL\obj\Debug\net6.0\APITechera.BL.csproj.AssemblyReference.cache
+C:\Proyectos\Yukiix\Techera\APITechera.BL\obj\Debug\net6.0\APITechera.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Yukiix\Techera\APITechera.BL\obj\Debug\net6.0\APITechera.BL.AssemblyInfoInputs.cache
+C:\Proyectos\Yukiix\Techera\APITechera.BL\obj\Debug\net6.0\APITechera.BL.AssemblyInfo.cs
+C:\Proyectos\Yukiix\Techera\APITechera.BL\obj\Debug\net6.0\APITechera.BL.csproj.CoreCompileInputs.cache
+C:\Proyectos\Yukiix\Techera\APITechera.BL\obj\Debug\net6.0\APITechera.BL.csproj.CopyComplete
+C:\Proyectos\Yukiix\Techera\APITechera.BL\obj\Debug\net6.0\APITechera.BL.dll
+C:\Proyectos\Yukiix\Techera\APITechera.BL\obj\Debug\net6.0\refint\APITechera.BL.dll
+C:\Proyectos\Yukiix\Techera\APITechera.BL\obj\Debug\net6.0\APITechera.BL.pdb
+C:\Proyectos\Yukiix\Techera\APITechera.BL\obj\Debug\net6.0\ref\APITechera.BL.dll
